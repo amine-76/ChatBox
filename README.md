@@ -29,12 +29,3 @@ Le but de ce projet est de créer un chatbot qui peut répondre à des questions
   - `scikit-learn`
   - `nltk`
 
-## Installation
-
-### Cloner le dépôt
-
-Clone ce dépôt sur ton ordinateur :
-
-```bash
-git clone https://github.com/ton-utilisateur/chatbot-nlp.git
-cd chatbot-nlp
